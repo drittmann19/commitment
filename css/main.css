@@ -168,7 +168,8 @@
   background-color: grey;
   margin-top: 30px;
   margin-bottom: 30px;
-	padding:30px;
+	padding-top: 100px;
+  padding-left: 100px;
   height: 275px;
   width: 275px;
   text-align: center;
