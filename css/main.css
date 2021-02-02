@@ -65,3 +65,13 @@
   width: 30%;
   display:inline-block;
 }
+
+.radialGradientBox{
+  background-image: linear-gradient(#ff8a00, #e52e71);
+  margin-top: 30px;
+  margin-bottom: 30px;
+	padding:0px;
+  height: 200px;
+  width: 30%;
+  display:inline-block;
+}
