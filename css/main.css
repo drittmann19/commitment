@@ -10,7 +10,7 @@
 }
 
 .halfWidthHeader{
-	background-color:rgb(200,40,130);
+	background-color:rgb(120,30,100);
   margin-top: 10px;
   margin-bottom: 10px;
 	padding:0px;
@@ -54,4 +54,16 @@
   width: 100%;
   box-sizing:border-box;
   text-align:center; /*left, right, center, justify*/
+}
+
+.linearGradientBox{
+  background-image: linear-gradient(#ff8a00, #e52e71);
+  margin-top: 10px;
+  margin-bottom: 10px;
+	padding:0px;
+  height: 100px;
+  width: 24%;
+	box-sizing:border-box;
+	text-align:center; /*left, right, center, justify*/
+  display:inline-block;
 }
