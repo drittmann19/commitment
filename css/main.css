@@ -37,6 +37,7 @@
 	padding:0px;
   height: 100px;
   width: 32%;
+  border-radius: 15px 50px;
 	box-sizing:border-box;
 	text-align:center; /*left, right, center, justify*/
   display:inline-block;
