@@ -44,6 +44,7 @@
   border-color: yellow;
 	box-sizing:border-box;
 	text-align:center; /*left, right, center, justify*/
+  text-decoration: line-through;
   display:inline-block;
 }
 
