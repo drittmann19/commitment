@@ -164,11 +164,11 @@
   display:inline-block;
 }
 
-.circle-icons{
+.circleIcon{
   background-color: grey;
   margin-top: 30px;
   margin-bottom: 30px;
-	padding:0px;
+	padding:30px;
   height: 275px;
   width: 275px;
   display:inline-block;
