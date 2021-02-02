@@ -56,6 +56,7 @@
   border-radius: 20px;
   border-style: solid;
   border-color: yellow;
+  border-width: 5px;
 	box-sizing:border-box;
 	text-align:center; /*left, right, center, justify*/
   display:inline-block;
