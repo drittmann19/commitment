@@ -63,6 +63,7 @@
 	box-sizing:border-box;
 	text-align:center; /*left, right, center, justify*/
   text-decoration: underline;
+  text-shadow: 2px 2px 5px #7E0094;
   display:inline-block;
 }
 
