@@ -58,6 +58,19 @@
   text-align:center; /*left, right, center, justify*/
 }
 
+.patternbox2{
+  background-color: #E5E5F7;
+  opacity: 0.4;
+  background-image: linear-gradient(to right, #444CF7, #444CF7 10px, #E5E5F7 10px, #E5E5F7 );
+  background-size: 20px 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding:0px;
+  height: 100px;
+  width: 100%;
+  text-align:center; /*left, right, center, justify*/
+}
+
 .linearGradientBox{
   background-image: linear-gradient(#ff8a00, #e52e71);
   margin-top: 30px;
