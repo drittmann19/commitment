@@ -61,6 +61,7 @@
   border-width: 5px;
 	box-sizing:border-box;
 	text-align:center; /*left, right, center, justify*/
+  text-decoration: underline;
   display:inline-block;
 }
 
