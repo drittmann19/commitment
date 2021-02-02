@@ -166,13 +166,11 @@
 
 .circleIcon{
   background-color: grey;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 100px;
 	padding:30px;
   height: 275px;
   width: 275px;
   text-align: center;
   vertical-align: middle;
-  display:inline-block;
   border-radius: 50%;
 }
