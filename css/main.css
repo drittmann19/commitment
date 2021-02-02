@@ -171,6 +171,8 @@
 	padding:30px;
   height: 275px;
   width: 275px;
+  text-align: center;
+  vertical-align: middle;
   display:inline-block;
   border-radius: 50%;
 }
