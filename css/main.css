@@ -58,9 +58,9 @@
 }
 
 .patternbox2{
-  background-color: #E5E5F7;
+  background-color: #ffffff;
   opacity: 0.4;
-  background-image: linear-gradient(to right, #444CF7, #444CF7 10px, #E5E5F7 10px, #E5E5F7 );
+  background-image: linear-gradient(to right, #000000, #000000 10px, #ffffff 10px, #ffffff );
   background-size: 20px 100%;
   margin-top: 10px;
   margin-bottom: 10px;
