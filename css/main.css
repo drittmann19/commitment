@@ -8,6 +8,7 @@
 	box-sizing:border-box;
 	text-align:center; /*left, right, center, justify*/
   text-decoration: overline;
+  text-shadow: 2px 2px #00E0D9;
 }
 
 .halfWidth{
