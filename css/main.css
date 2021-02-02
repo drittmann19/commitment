@@ -163,3 +163,14 @@
   border-top: 100px solid red;
   display:inline-block;
 }
+
+.circle{
+  background-color: grey;
+  margin-top: 30px;
+  margin-bottom: 30px;
+	padding:0px;
+  height: 300px;
+  width: 300px;
+  display:inline-block;
+  border-radius: 50%;
+}
